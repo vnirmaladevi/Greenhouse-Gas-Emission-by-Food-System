@@ -1,13 +1,11 @@
-# Greenhouse-Gas-Emission-by-Food-System
 Greenhouse-Gas-Emission-by-Food-System
 		
-		Greenhouse gas is  any gas that has the property of absorbing infrared radiation (net heat energy) emitted from Earth's surface and reradiating it back to Earth's surface, thus contributing to the greenhouse effect. Carbon dioxide, methane, and water vapour are the most important greenhouse gases. Greenhouse gases are emitted  from various sectors like
-Transportation,Industry,Agriculture,Forestry and other Land Use,Electricity and Heat Production etc.This project is all about analysing greenhouse gas emission from different food stages like
+		Greenhouse gas is  any gas that has the property of absorbing infrared radiation (net heat energy) emitted from Earth's surface and reradiating it back to Earth's surface, thus contributing to the greenhouse effect. Carbon dioxide, methane, and water vapour are the most important greenhouse gases. Greenhouse gases are emitted  from various sectors like Transportation,Industry,Agriculture,Forestry and other Land Use,Electricity and Heat Production etc.This project is all about analysing greenhouse gas emission from different food stages like
 land use change for agriculture,crop and livestock Production,Food Supplychain and Food waste disposal.
 
 Motivation
 
-	My family has an agricultural background and I have strong interest in analysing food related datasets.We all know,climatic changes really impact crop production .Adding to that,Greenhouse gas emissions highly contribute to global temperature changes.Exploring data for Co2 emission due to food systems is really a new experience.
+My family has an agricultural background and I have strong interest in analysing food related datasets.We all know,climatic changes really impact crop production .Adding to that,Greenhouse gas emissions highly contribute to global temperature changes.Exploring data for Co2 emission due to food systems is really a new experience.
 
 Here,I would like to highlight a quote regarding Food System,which will give overall idea behind this project.
 
