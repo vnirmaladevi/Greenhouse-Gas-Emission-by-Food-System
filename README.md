@@ -49,7 +49,9 @@ b)Regarding solid waste disposal, house hold sector contributes more to greenhou
 ## Technologies
 
 1)MS Excel
+
 2)Python
+
 3)Tableau
 
 
