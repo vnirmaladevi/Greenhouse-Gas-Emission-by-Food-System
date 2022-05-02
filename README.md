@@ -62,7 +62,7 @@ http://databank.worldbank.org/data/download/site-content/CLASS.xlsx
 
 ## Acknowledgements
 
-I am really thankful for my full time cohort Instructors Michael,Chris,Josh and Teaching Assistant Olariche for helping me through out the class and also Program Manager Mahesh for trusting and  transitioning me to full time cohort from part time.I would also like to thank my part time cohort Instructor Amanda for her continous support.
+I am really thankful for my full time cohort Instructors Michael,Chris,Josh,Teaching Assistant Olariche for helping me through out the class and Program Manager Mahesh for trusting and  transitioning me to full time cohort from part time.I would also like to thank my part time cohort Instructor Amanda for her continous support.
 
 ## Tableau link
 
