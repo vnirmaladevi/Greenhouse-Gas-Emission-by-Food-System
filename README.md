@@ -28,15 +28,15 @@ I am always passionate to explore new areas of interest. Greenhouse Gas Emission
 
 a)Almost 20% of the global green house emission are from food systems.Major contributing stage is crop and livestock production.
 
-<img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image1.png" width="300" height="300">
-<img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image2.png" width="300" height="300">
+  <img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image1.png" width="600" height="300">
+  <img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image2.png" width="600" height="300">
 
 
 
 b)Regarding solid waste disposal, house hold sector contributes more to greenhouse gas emissions than other sectors like food service and retail.
 
-<img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image3.png" width="300" height="300">
-<img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image4.png" width="300" height="300">
+  <img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image3.png" width="600" height="300">
+  <img src="https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image4.png" width="600" height="300">
 
 ## Known Issue and Challenges
 
