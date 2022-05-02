@@ -15,27 +15,32 @@ land use change for agriculture,crop and livestock Production,Food Supplychain a
 
 ## Motivation
 
-I am always passionate to explore new areas of interest. Greenhouse Gas Emissions by Food systems is one of those areas ,I want to analyze and get meaningful insights
+I am always passionate to explore new areas of interest. Greenhouse Gas Emissions by Food systems is one of those areas ,I want to analyze and get meaningful insights.
 
 
 ## Data Question
 
-1)Which stage in food system emits high Carbidiooxide in regions of low food production?
+1)Which stage in food system emits high carbidiooxide in regions of low food production?
 
-2)Which region emits high CO2 due to solid food waste? What is the major cause of Solid food waste.
+2)Which region emits high CO2 due to solid food waste? What is the major cause of solid food waste.
 
 ## Analysis
 
-a)Almost 20% of the Global green house emission are from Food Systems.Major contributing stage is crop and livestock production.
+a)Almost 20% of the global green house emission are from food systems.Major contributing stage is crop and livestock production.
 
-b)Regarding Solid waste disposal, House hold sector contributes more to greenhouse gas emissions than other sectors like Food service and Retail.
+![Alt text]("https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image1.png") 
+![Alt text]("https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image2.png")
 
 
+b)Regarding solid waste disposal, house hold sector contributes more to greenhouse gas emissions than other sectors like food service and retail.
+
+![Alt text]("https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image3.png")
+![Alt text]("https://github.com/vnirmaladevi/Greenhouse-Gas-Emission-by-Food-System/blob/main/Images/Image4.png")
 
 ## Known Issue and Challenges
 
 1)Dataset has both normalised and denormalised segments in same table and no proper metadata available,which makes it harder to analyse.
-2)Dataset is in form of csn with millions of records without API facility.
+2)Dataset is in the form of csv with millions of records without API facility.
 3)There are about 9 countries which does not have matching FAO code or Area code.This prevents from tagging these countries to respective regions.
 
 
