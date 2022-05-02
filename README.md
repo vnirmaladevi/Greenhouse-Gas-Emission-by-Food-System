@@ -14,11 +14,7 @@ land use change for agriculture,crop and livestock Production,Food Supplychain a
 
 ## Motivation
 
-My family has an agricultural background and I have strong interest in analysing food related datasets.We all know,climatic changes really impact crop production .Adding to that,Greenhouse gas emissions highly contribute to global temperature changes.Exploring data for Co2 emission due to food systems is really a new experience.
-
-Here,I would like to highlight a quote regarding Food System,which will give overall idea behind this project.
-
-“We have to change how we produce and consume food, not just for environmental reasons, but because this is an existential issue for humans”- Janet Ranganathan, vice-president for science and research at the World Resources Institute (WRI).
+I am always passionate about to explore new areas of interest. Greenhouse Gas Emissions by Food systems is one of those areas ,I want to analyze and get meaningful insights
 
 
 ## Data Question
@@ -27,7 +23,7 @@ Here,I would like to highlight a quote regarding Food System,which will give ove
 
 2)Which region emits high CO2 due to solid food waste? What is the major cause of Solid food waste.
 
-## Analysis:
+## Analysis
 
 a)Almost 20% of the Global green house emission are from Food Systems.Major contributing stage is crop and livestock production.
 
