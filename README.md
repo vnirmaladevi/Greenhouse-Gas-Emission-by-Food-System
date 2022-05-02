@@ -56,8 +56,8 @@ b)Regarding solid waste disposal, house hold sector contributes more to greenhou
 ## Data Sources
 
 https://www.fao.org/faostat/en/#data
+
 https://www.unep.org/resources/report/unep-food-waste-index-report-2021
-http://databank.worldbank.org/data/download/site-content/CLASS.xlsx
 
 
 ## Acknowledgements
