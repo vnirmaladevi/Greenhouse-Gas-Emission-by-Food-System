@@ -11,10 +11,11 @@ land use change for agriculture,crop and livestock Production,Food Supplychain a
 * Technologies
 * Data Sources
 * Acknowledgements
+* Tableau link
 
 ## Motivation
 
-I am always passionate about to explore new areas of interest. Greenhouse Gas Emissions by Food systems is one of those areas ,I want to analyze and get meaningful insights
+I am always passionate to explore new areas of interest. Greenhouse Gas Emissions by Food systems is one of those areas ,I want to analyze and get meaningful insights
 
 
 ## Data Question
@@ -33,9 +34,9 @@ b)Regarding Solid waste disposal, House hold sector contributes more to greenhou
 
 ## Known Issue and Challenges
 
-1)Dataset has both normalised and denormalised segments in same table and no proper metadata available,which makes it harder to analyse.No proper API document as well.
-
-2)There are about 9 countries which does not have matching FAO code or Area code.This prevents from tagging these countries to respective regions.
+1)Dataset has both normalised and denormalised segments in same table and no proper metadata available,which makes it harder to analyse.
+2)Dataset is in form of csn with millions of records without API facility.
+3)There are about 9 countries which does not have matching FAO code or Area code.This prevents from tagging these countries to respective regions.
 
 
 
@@ -57,4 +58,6 @@ http://databank.worldbank.org/data/download/site-content/CLASS.xlsx
 
 I am really thankful for my full time cohort instructors Chris,Josh and TA Ola for helping me through out the class and also Mahesh & Michael for trusting and helping me to transition to full time cohort from part time.I would also like to thank my part time cohort instructor Amanda for her continous support.
 
- 
+## Tableau link
+
+[Tableau Presentation](https://prod-useast-a.online.tableau.com/#/site/nirmala/views/GreenhouseGasemissionsfromFoodsystem/Story4?:iid=2)
