@@ -68,4 +68,4 @@ I am really thankful for my full time cohort Instructors Michael,Chris,Josh,Teac
 
 ## Tableau link
 
-[Tableau Presentation](https://prod-useast-a.online.tableau.com/#/site/nirmala/views/GreenhouseGasemissionsfromFoodsystem/Story4?:iid=2)
+[Tableau Presentation](https://public.tableau.com/views/GreenhouseGasEmissionbyFoodsystem/GreenhouseEmission?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
